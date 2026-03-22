@@ -7,6 +7,8 @@ A smart Arduino-based robot car capable of multiple functionalities including:
     Line Following
 
 
+
+
     
 Features 
 
@@ -24,6 +26,8 @@ Features
 
 
 
+
+
 Hardware Requirements
 
   Arduino UNO
@@ -35,6 +39,8 @@ Hardware Requirements
   IR Line Sensors (2 or 3)
   Robot Chassis with Motors
   Battery Pack
+
+
 
 
   
@@ -60,6 +66,8 @@ Pin Configuration
     Left Sensor	A0
     Center Sensor	A1
     Right Sensor	A2
+
+
 
 
     
@@ -89,6 +97,8 @@ Control Commands
 
 
 
+
+
 Working Modes
 
   Manual Mode
@@ -106,6 +116,8 @@ Working Modes
     Adjustable speed & trim
 
 
+
+
     
 Key Functions
 
@@ -113,6 +125,8 @@ Key Functions
   getDistance() → Ultrasonic distance measurement
   obstacleMode() → Autonomous navigation
   lineFollowMode() → Line tracking logic
+
+
 
 
   
@@ -127,6 +141,8 @@ Customization
   Adjust trim to fix drifting
 
 
+
+
   
 Libraries Used
 
@@ -138,6 +154,8 @@ Install from Arduino Library Manager.
 
 
 
+
+
 Future Improvements
 
   PID Line Following
@@ -145,6 +163,8 @@ Future Improvements
   Voice Commands
   Camera Integration
   AI-based Navigation
+
+
 
 
 
